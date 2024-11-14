@@ -9,5 +9,6 @@ func Factorial(n int) {
 		sum += i
 		i++
 	}
+	fmt.Printf("Factorial 9: ")
 	fmt.Println(sum)
 }
